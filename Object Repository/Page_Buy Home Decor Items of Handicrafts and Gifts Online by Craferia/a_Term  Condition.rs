@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Term  Condition</name>
+   <tag></tag>
+   <elementGuidId>56e783a6-73d3-4465-b344-b4ffdbbeae9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#block-11 > ul > li:nth-of-type(4) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block-11']/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3ad244d4-2fa3-4bb4-a4e9-93bbdb22ef87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.craferia.com/term-and-conditions/</value>
+      <webElementGuid>52965637-f641-41de-861e-9ab775469f80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Term &amp; Condition</value>
+      <webElementGuid>8de71276-7322-41f3-9501-6be87bd1e5e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-11&quot;)/ul[1]/li[4]/a[1]</value>
+      <webElementGuid>fa3ac265-38cf-4d14-99bd-ebb064bcac96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block-11']/ul/li[4]/a</value>
+      <webElementGuid>99152a78-60bd-41a0-a6ef-54569a24d487</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Term &amp; Condition')]</value>
+      <webElementGuid>0d357a32-8083-4052-870c-609ea75ed543</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.craferia.com/term-and-conditions/')]</value>
+      <webElementGuid>00767930-4726-49f5-bea9-9f4b6d8a585c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/ul/li[4]/a</value>
+      <webElementGuid>97a4ddf0-71d0-4e19-8cfa-a86d30c300c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.craferia.com/term-and-conditions/' and (text() = 'Term &amp; Condition' or . = 'Term &amp; Condition')]</value>
+      <webElementGuid>0d4312ce-bab9-4eaa-b63f-b6baaec39030</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

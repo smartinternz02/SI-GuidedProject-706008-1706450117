@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Get in touch</name>
+   <tag></tag>
+   <elementGuidId>405d18b8-6715-4eba-a998-d37e7eb61018</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.wp-block-heading</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block-7']/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>cd9a3690-45a6-468a-9493-acddf2afd24a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wp-block-heading</value>
+      <webElementGuid>4e7bae11-1dfd-43b0-965f-2f45effa9aef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get in touch</value>
+      <webElementGuid>7ce2d8fd-55fc-4486-b4b6-46493c275da5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-7&quot;)/h2[@class=&quot;wp-block-heading&quot;]</value>
+      <webElementGuid>a6d68897-32eb-456e-b024-916653859106</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block-7']/h2</value>
+      <webElementGuid>13dc46e3-7154-4f21-a94b-dffa3ee2b9fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/h2</value>
+      <webElementGuid>c8932cbe-a48d-42af-8098-3c7551d34a88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Get in touch' or . = 'Get in touch')]</value>
+      <webElementGuid>36cf260d-ba43-47af-aa08-e23cdb8c4b10</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

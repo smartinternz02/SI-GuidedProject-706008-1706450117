@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Wall Decor</name>
+   <tag></tag>
+   <elementGuidId>3c786770-b51b-4f86-b351-ffe72474c961</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#dswbm-sliders-28182 > div.slider-section-title > h3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dswbm-sliders-28182']/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>51eb6ef7-dfb3-4665-9717-a7f31d674de3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wall Decor</value>
+      <webElementGuid>721c310b-928a-4a3f-bca6-052eb8f74978</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dswbm-sliders-28182&quot;)/div[@class=&quot;slider-section-title&quot;]/h3[1]</value>
+      <webElementGuid>1781f3cc-2b81-4a76-ada9-57e3f9bf76f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dswbm-sliders-28182']/div/h3</value>
+      <webElementGuid>3bcebbd8-aec9-4c4e-a948-23e0c20139b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/h3</value>
+      <webElementGuid>4ad6a934-1f31-4019-855b-4100affc3a6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Wall Decor' or . = 'Wall Decor')]</value>
+      <webElementGuid>b11e2934-54fa-4c56-8903-812bf1330d52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
